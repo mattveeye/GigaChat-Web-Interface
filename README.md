@@ -19,15 +19,17 @@ Simple web app for chatting with GigaChat AI.
 
 ## Tech
 
-- HTML/CSS/JS
+- HTML
+- Bootstrap 5
+- JavaScript
 - Node.js + Express
 - GigaChat API
 
+
 ## Files
 
-- `index.html` - interface
+- `index.html` - interface (w/ styles)
 - `script.js` - frontend logic
 - `server.js` - server
 - `config.js` - API key
-- `styles.css` - styles
 
